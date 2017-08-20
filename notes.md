@@ -15,3 +15,6 @@
  - activation functions, if they are continuous and differentiable, then you can do gradient decent
  - sse - sum of squared errors
  
+ - backpropogation - errors go backwards through the network
+ 
+ 
